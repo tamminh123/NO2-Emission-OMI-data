@@ -2,13 +2,13 @@
 
 This repository contains scripts to preprocess and analyze NO₂ emissions using OMI satellite data over [your study area, e.g. Ho Chi Minh City].
 
-## 📂 File Structure
+## File Structure
 
 - `pre-processing_calc.ipynb`: Main notebook to calculate NO₂ emission rates.
 - `data/`: (optional) Folder for raw data files.
 - `output/`: (optional) Folder for processed results.
 
-## ⚙️ Requirements
+## Requirements
 
 - Python >= 3.8  
 - Jupyter Notebook  
@@ -19,7 +19,7 @@ This repository contains scripts to preprocess and analyze NO₂ emissions using
   - matplotlib
   - seaborn
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
