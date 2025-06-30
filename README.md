@@ -1,6 +1,6 @@
 # NO2 Emission from OMI Satellite Data
 
-This repository contains scripts to preprocess and analyze NO₂ emissions using OMI satellite data over [your study area, e.g. Ho Chi Minh City].
+This repository contains scripts to preprocess and analyze NO₂ emissions using OMI satellite data over Ho Chi Minh City.
 
 ## File Structure
 
